@@ -1,0 +1,5 @@
+{
+  "test_Main.py::NovTest::test_base": true,
+  "test_Main.py::NovTest::test_is_hero_slider_on_the_home_page": true,
+  "test_Main.py::test_base": true
+}
